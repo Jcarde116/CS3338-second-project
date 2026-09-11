@@ -1,0 +1,36 @@
+commit e36f3b0d4ca81c6713782206258d4bbad6eefed3
+Merge: d1bfecd bebd6b2
+Author: Juan Cardenas II <jcard0709@gmail.com>
+Date:   Thu Sep 10 18:22:36 2026 -0700
+
+    Resolve index.html merge conflict
+
+commit bebd6b2bebea1d9120451dcec279f6748445545a
+Author: Juan Cardenas II <jcard0709@gmail.com>
+Date:   Thu Sep 10 18:17:56 2026 -0700
+
+    Add favorite movie or game to index
+
+commit d1bfecd7b39a44fb873573a5934d8ce51298626f
+Author: Juan Cardenas II <jcard0709@gmail.com>
+Date:   Thu Sep 10 18:14:31 2026 -0700
+
+    Add favorite food to index
+
+commit 64bea8917f32dcf9c36c667e079dfeaee54016f7
+Author: Juan Cardenas II <jcard0709@gmail.com>
+Date:   Thu Sep 10 18:06:32 2026 -0700
+
+    Add project README
+
+commit 476fcc266e2705f112e07647f6c8592524657e00
+Author: Juan Cardenas II <jcard0709@gmail.com>
+Date:   Thu Sep 10 17:22:06 2026 -0700
+
+    Fill in website information
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
